@@ -1,5 +1,5 @@
 <?php
 
-include_once("curriculo.html");
+include_once("index.html");
 
 ?>
